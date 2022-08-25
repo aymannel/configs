@@ -1,7 +1,13 @@
 # Backup of my system configuration files
 
-## Zsh config `~/.zshrc/`
+## Zsh config `~/.zshrc`
+Previously `~/.bashrc`. Contains aliases to facilitate navigation via the CLI, the running of Zsh scripts and activating and navigating to conda virtual environments.
+
 ## Vim config `~/.vimrc`
-## Conda config `~/.condarc/`
+Configure a freshly-installed version of Vim (MacVim) with my preferred configurations, plugins and keybindings.
+
 ## Gitme config `~/.gitmerc`
+Provide location of Obsidian README files here.
+
 ## latexmk config `~/.latexmkrc`
+Configurations for latexmk to behave nicely with Skim and my LaTeX environment.

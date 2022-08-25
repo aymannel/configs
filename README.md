@@ -1,4 +1,4 @@
-# Backup of my system configuration files
+# Backup of system configuration files
 
 ## Zsh config `~/.zshrc`
 Previously `~/.bashrc`. Contains aliases to facilitate navigation via the CLI, the running of Zsh scripts and activating Conda virtual environments.

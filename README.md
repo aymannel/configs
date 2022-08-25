@@ -1,7 +1,7 @@
 # Backup of my system configuration files
 
 ## Zsh config `~/.zshrc`
-Previously `~/.bashrc`. Contains aliases to facilitate navigation via the CLI, the running of Zsh scripts and activating and navigating to conda virtual environments.
+Previously `~/.bashrc`. Contains aliases to facilitate navigation via the CLI, the running of Zsh scripts and activating Conda virtual environments.
 
 ## Vim config `~/.vimrc`
 Configure a freshly-installed version of Vim (MacVim) with my preferred configurations, plugins and keybindings.
